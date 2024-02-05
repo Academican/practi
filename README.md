@@ -5,7 +5,7 @@
 
 ```mermaid
 sequenceDiagram
-    participant навигация
+    навигация
 
 ```
 
