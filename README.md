@@ -5,7 +5,7 @@
 
 ```mermaid
 sequenceDiagram
- block навигация 
+навигация->>a
 
 ```
 
