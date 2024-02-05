@@ -1,12 +1,12 @@
 # Шпаргалка
 ## Базовые команды 
 
-``mermaid 
+```mermaid 
  A--> B
  A--> C
  B--> D
  C--> D 
-``
+```
 
 ```mermaid
 sequenceDiagram
